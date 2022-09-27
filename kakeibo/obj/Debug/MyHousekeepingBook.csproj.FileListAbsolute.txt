@@ -1,0 +1,10 @@
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\bin\Debug\kakeibo.exe.config
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\bin\Debug\kakeibo.exe
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\bin\Debug\kakeibo.pdb
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\kakeibo.Form1.resources
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\kakeibo.ItemForm.resources
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\kakeibo.Properties.Resources.resources
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\MyHousekeepingBook.csproj.GenerateResource.cache
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\MyHousekeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\kakeibo.exe
+C:\Users\B0021003\source\repos\kakeibo\kakeibo\obj\Debug\kakeibo.pdb
